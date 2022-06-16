@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the project
 
-git clone https://github.com/aboongm/morse-code-ruby
+git clone https://github.com/Mo7amedSMahdi/morse-code-ruby
 
 cd decode-morse-code
 
