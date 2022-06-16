@@ -40,8 +40,6 @@ run the program functions
 
 ## Authors
 
-👤 **Author1**
-
 👤 **Mohammed Salah**
 
 - GitHub: [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi)
